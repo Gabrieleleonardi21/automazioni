@@ -2,7 +2,7 @@
 
 Script di prima configurazione e messa in sicurezza di base per una VPS Ubuntu o Debian appena creata.
 
-L'ho preparato dopo il colloquio del 9 novembre 2026, con l'aiuto di Claude, per studiare la parte su cui avevo risposto di non avere esperienza: la gestione di un server.
+L'ho preparato dopo il colloquio, con l'aiuto di Claude, per studiare la parte su cui avevo risposto di non avere esperienza: la gestione di un server.
 
 ## Stato
 
